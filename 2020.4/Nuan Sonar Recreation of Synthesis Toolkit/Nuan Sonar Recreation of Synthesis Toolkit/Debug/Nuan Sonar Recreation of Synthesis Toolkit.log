@@ -1,0 +1,21 @@
+﻿  Mutex.cpp
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(67): error C3646: 'mutex_': unknown override specifier
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(68): error C3646: 'condition_': unknown override specifier
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(68): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Nuan Sonar Recreation of Synthesis Toolkit.cpp
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(67): error C3646: 'mutex_': unknown override specifier
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(68): error C3646: 'condition_': unknown override specifier
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(68): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  RtWvIn.cpp
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(67): error C3646: 'mutex_': unknown override specifier
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(68): error C3646: 'condition_': unknown override specifier
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(68): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  RtWvOut.cpp
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(67): error C3646: 'mutex_': unknown override specifier
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(68): error C3646: 'condition_': unknown override specifier
+c:\users\naum\documents\programming\2020.4\nuan sonar recreation of synthesis toolkit\nuan sonar recreation of synthesis toolkit\mutex.h(68): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...

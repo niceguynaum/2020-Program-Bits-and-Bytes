@@ -1,0 +1,20 @@
+/*
+the stk::Noise class outputs random floating-point numbers in the range +/-1.0. 
+The computation of such values occurs in the stk::Noise::tick() function. 
+The following program will generate 20 random floating-point (StkFloat) 
+values in the range -1.0 to +1.0:
+*/
+
+#include "Noise.h"
+
+int main()
+{
+	stk::StkFloat output;
+	stk::Noise noise;
+
+	for (unsigned int i = 0; i < 20; i++) {
+		output = noise.tick();
+		std::cout << "i = " << i << " : output = " << output << std::endl;
+	}
+	return 0;
+}
